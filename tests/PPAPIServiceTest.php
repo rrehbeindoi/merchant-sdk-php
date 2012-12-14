@@ -19,7 +19,7 @@ class PPAPIServiceTest extends PHPUnit_Framework_TestCase
      */
     protected function setUp()
     {
-        $this->object = new PPAPIService('ServiceName', 'SOAP');
+        $this->object = new PPAPIService('port', 'ServiceName', 'SOAP');
     }
 
     /**
