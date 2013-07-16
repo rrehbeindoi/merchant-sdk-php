@@ -3,7 +3,7 @@
  * Encapsulates API request information
  *
  */
-class PPrequest {
+class PPRequest {
 	
 	/**
 	 * Request Object
